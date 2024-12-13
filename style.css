@@ -15,8 +15,8 @@ body {
 
 .main {
     background: #000;
-    width: 370px;
-    min-height: 100dvh;
+    width: 375px;
+    height: 790px;
     border-radius: 20px;
     display: flex;
     position: relative;

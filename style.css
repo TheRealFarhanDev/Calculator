@@ -131,3 +131,11 @@ button:hover {
     background-color: #39b8ff;
     color: lightcyan;
 }
+
+@media (max-width: 768px) {
+    .main {
+        width: 90%;
+        height: auto;
+    }
+}
+
